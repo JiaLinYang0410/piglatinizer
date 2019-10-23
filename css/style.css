@@ -2,5 +2,11 @@
     text-align:center;
 }
 body{
-    background:pink;
+    background:rgb(204, 240, 252);
+}
+#button{
+    background:rgb(253, 184, 184);
+}
+.heading{
+    color: rgb(197, 156, 197);
 }
